@@ -23,6 +23,7 @@ Công cụ Batch giúp **fix lỗi ảo hóa (VT-x / AMD-v)** trên Windows bằ
 
 ## 📂 Cấu trúc yêu cầu
 
+Di chuyển thư mục "dgreadiness_v3.6" vào ổ C:\
 ```
 C:\
  └── dgreadiness_v3.6\
