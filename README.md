@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-v1.0-blue">
-  <img src="https://img.shields.io/badge/platform-Windows%20%7C%20ESXi-black?logo=windows">
+  <img src="https://img.shields.io/badge/platform-Windows%20%7C%20ESXi-pink?logo=windows">
   <img src="https://img.shields.io/badge/author-PhTrien-purple?logo=github">
 </p>
 
