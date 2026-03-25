@@ -120,5 +120,3 @@ Free to use & modify.
 ## ⭐ Gợi ý
 
 Nếu thấy hữu ích, hãy ⭐ repo để ủng hộ!
-![BetterImage_1774442848516](https://github.com/user-attachments/assets/30c7d0ba-774a-4514-8ae6-76e767ae4000)
-
