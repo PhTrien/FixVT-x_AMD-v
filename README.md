@@ -1,11 +1,6 @@
 <p align="center">
 <img width="647" height="142" alt="ascii-art-text" src="https://github.com/user-attachments/assets/4c3d1215-f853-4b2a-8ecb-f17a4ae99491" />
 </p>
-                                                        
-
-# 🛠 Fix VT-x / AMD-v Tool
-
-Công cụ Batch giúp **fix lỗi ảo hóa (VT-x / AMD-v)** trên Windows bằng cách tự động tắt các tính năng gây xung đột như Hyper-V, VBS, Credential Guard,...
 
 ---
 
