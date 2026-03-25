@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-v1.0-blue">
+  <img src="https://img.shields.io/badge/version-v1.0-0099FF">
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%20ESXi-pink?logo=windows">
   <img src="https://img.shields.io/badge/author-PhTrien-8A2BE2?logo=github">
 </p>
