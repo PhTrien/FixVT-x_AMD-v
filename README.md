@@ -18,7 +18,7 @@
 
 ## 🖥️ Giao diện
 
-![screenshot](https://raw.githubusercontent.com/PhTrien/FixVT-x_AMD-v/main/preview.png)
+<img width="1196" height="906" alt="image" src="https://github.com/user-attachments/assets/7182f9c2-3c9b-4647-aa97-8303dfb6b5bf" />
 
 > Giao diện trực quan với panel chọn bước bên trái và log output real-time bên phải.
 
@@ -93,42 +93,3 @@ Thấy hữu ích? Hãy ⭐ **star repo** để ủng hộ tác giả!
 **Made with ❤️ by Phạm Triển — PH58258**
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img width="1196" height="906" alt="image" src="https://github.com/user-attachments/assets/7182f9c2-3c9b-4647-aa97-8303dfb6b5bf" />
