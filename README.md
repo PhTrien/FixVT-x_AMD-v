@@ -82,7 +82,7 @@ Nguyên nhân thường là **Hyper-V, VBS, Credential Guard** đang chiếm quy
 
 - Bắt buộc chạy với quyền **Administrator**
 - Tool sẽ chỉnh **registry** và **tắt tính năng hệ thống**
-- Nên backup dữ liệu quan trọng trước khi chạy
+- **Đọc kĩ hướng dẫn trước khi dùng**
 
 ---
 
